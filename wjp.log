@@ -1,0 +1,4953 @@
+当前时间： 2015-09-26 00:02:02
+当前时间： 2015-09-27 00:02:01
+当前时间： 2015-09-28 00:02:02
+当前时间： 2015-09-29 00:02:02
+当前时间： 2015-09-30 00:02:01
+当前时间： 2015-10-01 00:02:01
+当前时间： 2015-10-02 00:02:02
+当前时间： 2015-10-03 00:02:01
+当前时间： 2015-10-04 00:02:01
+当前时间： 2015-10-05 00:02:01
+当前时间： 2015-10-06 00:02:01
+当前时间： 2015-10-07 00:02:01
+当前时间： 2015-10-08 00:02:02
+当前时间： 2015-10-09 00:02:02
+当前时间： 2015-10-10 00:02:01
+当前时间： 2015-10-11 00:02:02
+当前时间： 2015-10-12 00:02:02
+当前时间： 2015-10-13 00:02:01
+当前时间： 2015-10-14 00:02:01
+当前时间： 2015-10-15 00:02:01
+当前时间： 2015-10-16 00:02:02
+当前时间： 2015-10-17 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第18届成都国际汽车展览会
+一个项目结束。
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第34届成都秋季美博会
+一个项目结束。
+当前时间： 2015-10-18 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第18届成都国际汽车展览会
+一个项目结束。
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第34届成都秋季美博会
+一个项目结束。
+当前时间： 2015-10-19 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第18届成都国际汽车展览会
+一个项目结束。
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第34届成都秋季美博会
+一个项目结束。
+当前时间： 2015-10-20 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第18届成都国际汽车展览会
+一个项目结束。
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第34届成都秋季美博会
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x90 0x30 0xF5 0xCE
+encoding error : input conversion failed due to input error, bytes 0x90 0x30 0xF5 0xCE
+当前时间： 2015-10-21 00:02:02
+IncompleteRead(2277 bytes read, 1623 more expected)
+timeout for <function get_real_url at 0x7fa6319a5e60>
+decode() argument 1 must be string, not None
+<urlopen error [Errno 110] Connection timed out>
+decode() argument 1 must be string, not None
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+decode() argument 1 must be string, not None
+timeout for <function get_code at 0x7fa6319a5668>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_code at 0x7fa6319a5668>
+timeout for <function get_real_url at 0x7fa6319a5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fa6319a5e60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_location at 0x7fa6319a7500>
+timeout for <function get_real_url at 0x7fa6319a5e60>
+'NoneType' object has no attribute '__getitem__'
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fa6319a5e60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 503: Service Temporarily Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-10-22 00:02:01
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 111] Connection refused>
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-10-23 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7f3cbd04de60>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7f3cbd04de60>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第18届成都国际汽车展览会
+一个项目结束。
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第34届成都秋季美博会
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-10-24 00:02:01
+<urlopen error [Errno 113] No route to host>
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+<urlopen error [Errno 111] Connection refused>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+'utf8' codec can't decode byte 0x84 in position 0: invalid start byte
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f23c52e5e60>
+<urlopen error [Errno -2] Name or service not known>
+[Errno 104] Connection reset by peer
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-10-25 00:02:01
+HTTP Error 403: Forbidden
+<urlopen error [Errno 113] No route to host>
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 500: Internal Server Error
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-10-26 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 113] No route to host>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f469dff5e60>
+HTTP Error 504: Gateway Time-out
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-10-27 00:02:01
+HTTP Error 500: Internal Server Error
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7fb767f6de60>
+timeout for <function get_real_url at 0x7fb767f6de60>
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fb767f6de60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7fb767f6de60>
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_total_code at 0x7fb767f6dcf8>
+搜索引擎界面访问失败。
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第34届成都秋季美博会
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-10-28 00:02:01
+HTTP Error 502: Bad Gateway
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-10-29 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 502: Bad Gateway
+timeout for <function get_real_url at 0x7fdd4bab5e60>
+HTTP Error 403: Forbidden
+''
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-10-30 00:02:01
+HTTP Error 502: Bad Gateway
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 502: Bad Gateway
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-10-31 00:02:01
+HTTP Error 502: Bad Gateway
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+timeout for <function get_real_url at 0x7fcfdb1bde60>
+timeout for <function get_real_url at 0x7fcfdb1bde60>
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-11-01 00:02:02
+timeout for <function get_real_url at 0x7f280d09de60>
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+HTTP Error 502: Bad Gateway
+[Errno 104] Connection reset by peer
+timeout for <function get_real_url at 0x7f280d09de60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-11-02 00:02:01
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f8a3c89de60>
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+HTTP Error 502: Bad Gateway
+[Errno 104] Connection reset by peer
+timeout for <function get_real_url at 0x7f8a3c89de60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f8a3c89de60>
+HTTP Error 502: Bad Gateway
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-11-03 00:02:02
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+HTTP Error 502: Bad Gateway
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 502: Bad Gateway
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-11-04 00:02:02
+HTTP Error 502: Bad Gateway
+HTTP Error 500: Internal Server Error
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-11-05 00:02:02
+HTTP Error 502: Bad Gateway
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f1fda7c5e60>
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+HTTP Error 504: Gateway Time-out
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 500: Internal Server Error
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+当前时间： 2015-11-06 00:02:01
+当前时间： 2015-11-07 00:02:01
+当前时间： 2015-11-08 00:02:02
+当前时间： 2015-11-09 00:02:01
+当前时间： 2015-11-10 00:02:01
+当前时间： 2015-11-11 00:02:01
+当前时间： 2015-11-12 00:02:02
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x90 0xAD 0x8B 0x2D
+encoding error : input conversion failed due to input error, bytes 0x90 0xAD 0x8B 0x2D
+encoding error : input conversion failed due to input error, bytes 0x90 0x6C 0x64 0xB1
+encoding error : input conversion failed due to input error, bytes 0x90 0x6C 0x64 0xB1
+当前时间： 2015-11-13 00:02:02
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute 'parent'
+HTTP Error 403: Forbidden
+<urlopen error [Errno 113] No route to host>
+HTTP Error 403: Forbidden
+timeout for <function get_location at 0x7f8abd8ff500>
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_ip_pv at 0x7f8abd8ff320>
+timeout for <function get_ip_pv at 0x7f8abd8ff320>
+timeout for <function get_ip_pv at 0x7f8abd8ff320>
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+decode() argument 1 must be string, not None
+HTTP Error 404: Not Found
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f8abd8fde60>
+decode() argument 1 must be string, not None
+timeout for <function get_ip_pv at 0x7f8abd8ff320>
+HTTP Error 503: Service Unavailable
+HTTP Error 404: Not Found
+<urlopen error [Errno -5] No address associated with hostname>
+timeout for <function get_ip_pv at 0x7f8abd8ff320>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f8abd8fde60>
+decode() argument 1 must be string, not None
+timeout for <function get_real_url at 0x7f8abd8fde60>
+''
+<urlopen error [Errno -5] No address associated with hostname>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+timeout for <function get_total_code at 0x7f8abd8fdcf8>
+搜索引擎界面访问失败。
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x8D 0x7E 0x38 0x96
+encoding error : input conversion failed due to input error, bytes 0x8D 0x7E 0x38 0x96
+当前时间： 2015-11-14 00:02:01
+timeout for <function get_real_url at 0x7f096d735e60>
+timeout for <function get_real_url at 0x7f096d735e60>
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 502: Bad Gateway
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 400: Bad Request
+timeout for <function get_location at 0x7f096d737500>
+decode() argument 1 must be string, not None
+HTTP Error 403: Forbidden
+timeout for <function get_location at 0x7f096d737500>
+timeout for <function get_real_url at 0x7f096d735e60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute 'parent'
+timeout for <function get_ip_pv at 0x7f096d737320>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'utf8' codec can't decode byte 0x9b in position 0: invalid start byte
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+timeout for <function get_code at 0x7f096d735668>
+HTTP Error 503: Service Unavailable
+decode() argument 1 must be string, not None
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+''
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-11-15 00:02:01
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_location at 0x7f2056577500>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+timeout for <function get_total_code at 0x7f2056575cf8>
+搜索引擎界面访问失败。
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第93届全国糖酒商品交易会
+一个项目结束。
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+timeout for <function get_real_url at 0x7f2056575e60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x90 0x3D 0xB1 0xB5
+encoding error : input conversion failed due to input error, bytes 0x90 0x3D 0xB1 0xB5
+当前时间： 2015-11-16 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7ffb93e9de60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 113] No route to host>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7ffb93e9de60>
+[Errno 104] Connection reset by peer
+timeout for <function get_real_url at 0x7ffb93e9de60>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第93届全国糖酒商品交易会
+一个项目结束。
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+decode() argument 1 must be string, not None
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+timeout for <function get_real_url at 0x7ffb93e9de60>
+timeout for <function get_total_code at 0x7ffb93e9dcf8>
+搜索引擎界面访问失败。
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -5] No address associated with hostname>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x90 0x3D 0xB1 0xB5
+encoding error : input conversion failed due to input error, bytes 0x90 0x3D 0xB1 0xB5
+当前时间： 2015-11-17 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7ff5705ade60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7ff5705ade60>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute 'parent'
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_code at 0x7ff5705ad668>
+HTTP Error 504: Gateway Time-out
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7ff5705ade60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第93届全国糖酒商品交易会
+一个项目结束。
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+HTTP Error 404: Not Found
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+timeout for <function get_real_url at 0x7ff5705ade60>
+timeout for <function get_real_url at 0x7ff5705ade60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7ff5705ade60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x90 0x3D 0xB1 0xB5
+encoding error : input conversion failed due to input error, bytes 0x90 0x3D 0xB1 0xB5
+当前时间： 2015-11-18 00:02:01
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+timeout for <function get_real_url at 0x7fdd787fde60>
+timeout for <function get_real_url at 0x7fdd787fde60>
+HTTP Error 404: Not Found
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7fdd787fde60>
+timeout for <function get_real_url at 0x7fdd787fde60>
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+timeout for <function get_real_url at 0x7fdd787fde60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7fdd787fde60>
+timeout for <function get_real_url at 0x7fdd787fde60>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_code at 0x7fdd787fd668>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x90 0x3D 0xB1 0xB5
+encoding error : input conversion failed due to input error, bytes 0x90 0x3D 0xB1 0xB5
+当前时间： 2015-11-19 00:02:02
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+HTTP Error 500: Internal Server Error
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+''
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+HTTP Error 504: Gateway Time-out
+HTTP Error 502: Bad Gateway
+timeout for <function get_real_url at 0x7f8dce1d5e60>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+当前时间： 2015-11-20 00:02:02
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+timeout for <function get_real_url at 0x7f14c372de60>
+HTTP Error 504: Gateway Time-out
+timeout for <function get_real_url at 0x7f14c372de60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+timeout for <function get_real_url at 0x7f14c372de60>
+timeout for <function get_real_url at 0x7f14c372de60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-11-21 00:02:02
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 500: Internal Server Error
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fcfde5d5e60>
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x9D 0xA6 0xDE 0x3A
+encoding error : input conversion failed due to input error, bytes 0x9D 0xA6 0xDE 0x3A
+当前时间： 2015-11-22 00:02:01
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+decode() argument 1 must be string, not None
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+HTTP Error 503: Service Unavailable
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_code at 0x7f5748d45668>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+''
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+HTTP Error 500: Internal Server Error
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f5748d45e60>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+当前时间： 2015-11-23 00:02:01
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 111] Connection refused>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+timeout for <function get_real_url at 0x7f8865ccde60>
+decode() argument 1 must be string, not None
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f8865ccde60>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+当前时间： 2015-11-24 00:02:02
+HTTP Error 502: Bad Gateway
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+timeout for <function get_real_url at 0x7fd17a6f5e60>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7fd17a6f5e60>
+<urlopen error [Errno 111] Connection refused>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7fd17a6f5e60>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+''
+HTTP Error 403: Forbidden
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+timeout for <function get_real_url at 0x7fd17a6f5e60>
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+当前时间： 2015-11-25 00:02:02
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+HTTP Error 500: Internal Server Error
+timeout for <function get_real_url at 0x7f4fcdb95e60>
+timeout for <function get_real_url at 0x7f4fcdb95e60>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+timeout for <function get_ip_pv at 0x7f4fcdb97320>
+HTTP Error 403: Forbidden
+HTTP/1.0   0 Init
+
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_ip_pv at 0x7f4fcdb97320>
+timeout for <function get_ip_pv at 0x7f4fcdb97320>
+timeout for <function get_code at 0x7f4fcdb95668>
+timeout for <function get_real_url at 0x7f4fcdb95e60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+当前时间： 2015-11-26 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+HTTP Error 500: Internal Server Error
+HTTP Error 404: Not Found
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+timeout for <function get_real_url at 0x7f393c5b5e60>
+timeout for <function get_real_url at 0x7f393c5b5e60>
+''
+''
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 500: Internal Server Error
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f393c5b5e60>
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+encoding error : input conversion failed due to input error, bytes 0x9D 0xD1 0xCC 0x93
+encoding error : input conversion failed due to input error, bytes 0x8F 0xF2 0xA5 0x34
+encoding error : input conversion failed due to input error, bytes 0x8F 0xF2 0xA5 0x34
+当前时间： 2015-11-27 00:02:02
+timeout for <function get_real_url at 0x7f6181dbde60>
+timeout for <function get_real_url at 0x7f6181dbde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f6181dbde60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+decode() argument 1 must be string, not None
+decode() argument 1 must be string, not None
+timeout for <function get_real_url at 0x7f6181dbde60>
+[Errno 104] Connection reset by peer
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+timeout for <function get_real_url at 0x7f6181dbde60>
+''
+HTTP Error 403: Forbidden
+''
+''
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+timeout for <function get_real_url at 0x7f6181dbde60>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f6181dbde60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x9D 0xA6 0xDE 0x3A
+encoding error : input conversion failed due to input error, bytes 0x9D 0xA6 0xDE 0x3A
+encoding error : input conversion failed due to input error, bytes 0x8F 0xC8 0x36 0x04
+encoding error : input conversion failed due to input error, bytes 0x8F 0xC8 0x36 0x04
+当前时间： 2015-11-28 00:02:01
+timeout for <function get_real_url at 0x7f7153bfde60>
+decode() argument 1 must be string, not None
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f7153bfde60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+''
+timeout for <function get_real_url at 0x7f7153bfde60>
+''
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+decode() argument 1 must be string, not None
+''
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x9D 0xA6 0xDE 0x3A
+encoding error : input conversion failed due to input error, bytes 0x9D 0xA6 0xDE 0x3A
+encoding error : input conversion failed due to input error, bytes 0x8F 0xC8 0x36 0x04
+encoding error : input conversion failed due to input error, bytes 0x8F 0xC8 0x36 0x04
+当前时间： 2015-11-29 00:02:01
+timeout for <function get_real_url at 0x7f1f30535e60>
+decode() argument 1 must be string, not None
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f1f30535e60>
+timeout for <function get_real_url at 0x7f1f30535e60>
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7f1f30535e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+''
+timeout for <function get_real_url at 0x7f1f30535e60>
+''
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f1f30535e60>
+HTTP Error 403: Forbidden
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+<urlopen error [Errno -2] Name or service not known>
+decode() argument 1 must be string, not None
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f1f30535e60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-11-30 00:02:01
+timeout for <function get_real_url at 0x7f1d80e45e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f1d80e45e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7f1d80e45e60>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+<urlopen error [Errno 110] Connection timed out>
+''
+timeout for <function get_real_url at 0x7f1d80e45e60>
+timeout for <function get_real_url at 0x7f1d80e45e60>
+''
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 500: Internal Server Error
+HTTP Error 500: Internal Server Error
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7f1d80e45e60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f1d80e45e60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x9D 0x94 0x9D 0xCC
+encoding error : input conversion failed due to input error, bytes 0x9D 0x94 0x9D 0xCC
+当前时间： 2015-12-01 00:02:01
+timeout for <function get_real_url at 0x7f489bdd5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f489bdd5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7f489bdd5e60>
+decode() argument 1 must be string, not None
+timeout for <function get_location at 0x7f489bdd7500>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+HTTP Error 404: Not Found
+''
+''
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_location at 0x7f489bdd7500>
+HTTP Error 521: 
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7f489bdd5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f489bdd5e60>
+[Errno 110] Connection timed out
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+encoding error : input conversion failed due to input error, bytes 0x8D 0x4F 0x01 0xF2
+encoding error : input conversion failed due to input error, bytes 0x8D 0x4F 0x01 0xF2
+当前时间： 2015-12-02 00:02:01
+timeout for <function get_real_url at 0x7fd2ce8ede60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fd2ce8ede60>
+<urlopen error [Errno -2] Name or service not known>
+decode() argument 1 must be string, not None
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+''
+timeout for <function get_real_url at 0x7fd2ce8ede60>
+''
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_total_code at 0x7fd2ce8edcf8>
+搜索引擎界面访问失败。
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7fd2ce8ede60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+timeout for <function get_real_url at 0x7fd2ce8ede60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-03 00:02:01
+timeout for <function get_real_url at 0x7fd9bd2a5e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fd9bd2a5e60>
+timeout for <function get_real_url at 0x7fd9bd2a5e60>
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+''
+''
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7fd9bd2a5e60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7fd9bd2a5e60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-04 00:02:01
+timeout for <function get_real_url at 0x7ff90bf4de60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7ff90bf4de60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+<urlopen error [Errno -2] Name or service not known>
+'utf8' codec can't decode byte 0x9c in position 0: invalid start byte
+timeout for <function get_real_url at 0x7ff90bf4de60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7ff90bf4de60>
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7ff90bf4de60>
+timeout for <function get_real_url at 0x7ff90bf4de60>
+HTTP Error 504: Gateway Time-out
+HTTP Error 403: Forbidden
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+HTTP Error 500: Internal Server Error
+HTTP Error 521: 
+HTTP Error 521: 
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7ff90bf4de60>
+HTTP Error 502: Proxy Error
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 521: 
+timeout for <function get_real_url at 0x7ff90bf4de60>
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno -5] No address associated with hostname>
+decode() argument 1 must be string, not None
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7ff90bf4de60>
+HTTP Error 502: Bad Gateway
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7ff90bf4de60>
+HTTP Error 404: Not Found
+timeout for <function get_code at 0x7ff90bf4d668>
+<urlopen error [Errno 110] Connection timed out>
+decode() argument 1 must be string, not None
+decode() argument 1 must be string, not None
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+timeout for <function get_real_url at 0x7ff90bf4de60>
+timeout for <function get_code at 0x7ff90bf4d668>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 500: Internal Server Error
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第九届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-05 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+timeout for <function get_real_url at 0x7f4e7da35e60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7f4e7da35e60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f4e7da35e60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+''
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f4e7da35e60>
+HTTP Error 504: Gateway Time-out
+HTTP Error 403: Forbidden
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+''
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+timeout for <function get_real_url at 0x7f4e7da35e60>
+HTTP Error 504: Gateway Time-out
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+decode() argument 1 must be string, not None
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -5] No address associated with hostname>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第九届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-06 00:02:01
+timeout for <function get_real_url at 0x7fbc118cde60>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fbc118cde60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+[Errno 104] Connection reset by peer
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。第十届中国-欧盟投资贸易科技合作洽谈会
+一个项目结束。
+<urlopen error [Errno 111] Connection refused>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7fbc118cde60>
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_real_url at 0x7fbc118cde60>
+HTTP Error 521: 
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+timeout for <function get_real_url at 0x7fbc118cde60>
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+<urlopen error [Errno -5] No address associated with hostname>
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-07 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-08 00:02:02
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-09 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-10 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-11 00:02:02
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-12 00:02:00
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 503: Service Unavailable
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-13 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-14 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-15 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+HTTP Error 521: 
+IncompleteRead(2395 bytes read)
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-16 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Temporarily Unavailable
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-17 00:02:02
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-18 00:02:02
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+''
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 404: NOT FOUND
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-19 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f096737de60>
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-20 00:02:01
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7f506fbede60>
+HTTP Error 503: Service Unavailable
+HTTP Error 521: 
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-21 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+HTTP Error 521: 
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-22 00:02:00
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f6dc3edde60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+timeout for <function get_real_url at 0x7f6dc3edde60>
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-23 00:02:01
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-24 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-25 00:02:02
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-26 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f6d2a0ede60>
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-27 00:02:02
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-28 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-29 00:02:02
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-30 00:02:01
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2015-12-31 00:02:02
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-01 00:02:01
+HTTP Error 502: Bad Gateway
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-02 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-03 00:02:01
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-04 00:02:02
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f058819de60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-05 00:02:01
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-06 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-07 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-08 00:02:01
+timeout for <function get_real_url at 0x7f9b81f6de60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-09 00:02:01
+HTTP Error 401: Unauthorized
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-10 00:02:02
+''
+timeout for <function get_real_url at 0x7f4c7ac3de60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-11 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 503: Service Unavailable
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+timeout for <function get_total_code at 0x7f71267bdcf8>
+搜索引擎界面访问失败。
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-12 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-13 00:02:01
+HTTP Error 521: 
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+timeout for <function get_total_code at 0x7f66e9a65cf8>
+搜索引擎界面访问失败。
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+Unhandled exception in thread started by 
+sys.excepthook is missing
+lost sys.stderr
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-14 00:02:01
+HTTP Error 521: 
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-15 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-16 00:02:01
+timeout for <function get_real_url at 0x7fd7cd115e60>
+[Errno 104] Connection reset by peer
+timeout for <function get_real_url at 0x7fd7cd115e60>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-17 00:02:01
+''
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-18 00:02:01
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-19 00:02:01
+timeout for <function get_total_code at 0x7ff49373dcf8>
+搜索引擎界面访问失败。
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-20 00:02:01
+HTTP Error 503: Service Unavailable
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-21 00:02:02
+timeout for <function get_real_url at 0x7fc74d16de60>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-22 00:02:00
+HTTP Error 500: Internal Server Error
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-23 00:02:01
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-24 00:02:02
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-25 00:02:01
+''
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 404: Not Found
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-26 00:02:01
+HTTP Error 404: Not Found
+HTTP Error 521: 
+HTTP Error 404: Not Found
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-27 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-28 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-29 00:02:01
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-30 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Temporarily Unavailable
+HTTP Error 503: Service Temporarily Unavailable
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-01-31 00:02:01
+timeout for <function get_real_url at 0x7fe36aeede60>
+HTTP Error 503: Service Temporarily Unavailable
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-01 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-02 00:02:01
+HTTP Error 404: Not Found
+HTTP Error 521: 
+HTTP Error 404: Not Found
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-03 00:02:01
+''
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-04 00:02:01
+<urlopen error [Errno 111] Connection refused>
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+HTTP Error 404: Not Found
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-05 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+HTTP Error 404: Not Found
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-06 00:02:02
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-07 00:02:01
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 521: 
+HTTP Error 521: 
+HTTP Error 503: Service Unavailable
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-08 00:02:01
+<urlopen error [Errno 111] Connection refused>
+''
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f9e5888de60>
+timeout for <function get_real_url at 0x7f9e5888de60>
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 404: Not Found
+HTTP Error 521: 
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 503: Service Unavailable
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-09 00:02:01
+<urlopen error [Errno 111] Connection refused>
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f99f5ca5e60>
+timeout for <function get_real_url at 0x7f99f5ca5e60>
+HTTP Error 503: Service Unavailable
+HTTP Error 404: Not Found
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 521: 
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-10 00:02:01
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f0e724cde60>
+timeout for <function get_real_url at 0x7f0e724cde60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 404: Not Found
+HTTP Error 521: 
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-11 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f31c8e65e60>
+timeout for <function get_real_url at 0x7f31c8e65e60>
+HTTP Error 404: Not Found
+HTTP Error 521: 
+<urlopen error [Errno 110] Connection timed out>
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-12 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f9f1b1dde60>
+HTTP Error 503: Service Unavailable
+HTTP Error 521: 
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-13 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Unavailable
+HTTP Error 404: Not Found
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-14 00:02:01
+HTTP Error 404: Not Found
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7f0ffab2de60>
+HTTP Error 504: Gateway Time-out
+timeout for <function get_real_url at 0x7f0ffab2de60>
+HTTP Error 404: Not Found
+HTTP Error 521: 
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-15 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+timeout for <function get_real_url at 0x7fc57d5ade60>
+HTTP Error 504: Gateway Time-out
+timeout for <function get_real_url at 0x7fc57d5ade60>
+HTTP Error 503: Service Unavailable
+timeout for <function get_total_code at 0x7fc57d5adcf8>
+搜索引擎界面访问失败。
+<urlopen error [Errno 110] Connection timed out>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-16 00:02:01
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-17 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-18 00:02:02
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-19 00:02:02
+HTTP Error 502: Bad Gateway
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-20 00:02:02
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-21 00:02:01
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-22 00:02:02
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-23 00:02:02
+HTTP Error 521: 
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-24 00:02:01
+timeout for <function get_real_url at 0x7f3cbabcde60>
+<urlopen error [Errno 110] Connection timed out>
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-25 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7f1166a0de60>
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno 110] Connection timed out>
+timeout for <function get_total_code at 0x7f1166a0dcf8>
+搜索引擎界面访问失败。
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-26 00:02:02
+HTTP Error 502: Bad Gateway
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+timeout for <function get_real_url at 0x7fa2c80cde60>
+HTTP Error 503: Service Unavailable
+<urlopen error [Errno 110] Connection timed out>
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-27 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-28 00:02:01
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-02-29 00:02:01
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-01 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-02 00:02:01
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-03 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+''
+HTTP Error 403: Forbidden
+HTTP Error 503: Service Temporarily Unavailable
+HTTP Error 503: Service Temporarily Unavailable
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-04 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+''
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-05 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-06 00:02:01
+''
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+timeout for <function get_total_code at 0x7f8c0400dcf8>
+搜索引擎界面访问失败。
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-07 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-08 00:02:00
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-09 00:02:01
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 403: Forbidden
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-10 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+''
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 521: 
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-11 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-12 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+HTTP Error 403: Forbidden
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+当前时间： 2016-03-13 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+当前时间： 2016-03-14 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+两次尝试，访问搜索引擎界面失败，现放弃此项目。成都智慧会展大数据中心正式上线
+一个项目结束。
+当前时间： 2016-03-15 00:02:02
+当前时间： 2016-03-16 00:02:01
+当前时间： 2016-03-17 00:02:01
+当前时间： 2016-03-18 00:02:01
+当前时间： 2016-03-19 00:02:01
+当前时间： 2016-03-20 00:02:01
+当前时间： 2016-03-21 00:02:01
+当前时间： 2016-03-22 00:02:01
+当前时间： 2016-03-23 00:02:01
+当前时间： 2016-03-24 00:02:01
+当前时间： 2016-03-25 00:02:02
+当前时间： 2016-03-26 00:02:01
+当前时间： 2016-03-27 00:02:01
+当前时间： 2016-03-28 00:02:01
+当前时间： 2016-03-29 00:02:02
+当前时间： 2016-03-30 00:02:02
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-03-31 00:02:01
+Traceback (most recent call last):
+  File "/home/csc/getdata/wjp_main/main_cd.py", line 64, in <module>
+    if(url1 == listssss[0]):
+TypeError: 'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-04-01 00:02:02
+Traceback (most recent call last):
+  File "/home/csc/getdata/wjp_main/main_cd.py", line 64, in <module>
+    if(url1 == listssss[0]):
+TypeError: 'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-04-02 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+<urlopen error [Errno -2] Name or service not known>
+[Errno 104] Connection reset by peer
+<urlopen error [Errno -2] Name or service not known>
+timeout for <function get_real_url at 0x7fce1477de60>
+timeout for <function get_total_code at 0x7fce1477dcf8>
+搜索引擎界面访问失败。
+Traceback (most recent call last):
+  File "/home/csc/getdata/wjp_main/main_cd.py", line 64, in <module>
+    if(url1 == listssss[0]):
+TypeError: 'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-04-03 00:02:02
+<urlopen error [Errno -2] Name or service not known>
+[Errno 104] Connection reset by peer
+'NoneType' object has no attribute '__getitem__'
+unknown url type: s
+搜索引擎界面访问失败。
+unknown url type: s
+两次尝试，访问搜索引擎界面失败，现放弃此项目。转型升级 提质增效 成都会展国际化进程持续加速
+一个项目结束。
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-04-04 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+搜索引擎界面访问失败。
+[Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/home/csc/getdata/wjp_main/main_cd.py", line 64, in <module>
+    if(url1 == listssss[0]):
+TypeError: 'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-04-05 00:02:01
+<urlopen error [Errno -2] Name or service not known>
+[Errno 104] Connection reset by peer
+timeout for <function get_total_code at 0x7f5a4657dcf8>
+搜索引擎界面访问失败。
+Traceback (most recent call last):
+  File "/home/csc/getdata/wjp_main/main_cd.py", line 64, in <module>
+    if(url1 == listssss[0]):
+TypeError: 'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-04-06 00:02:01
+Traceback (most recent call last):
+  File "/home/csc/getdata/wjp_main/main_cd.py", line 64, in <module>
+    if(url1 == listssss[0]):
+TypeError: 'NoneType' object has no attribute '__getitem__'
+/usr/local/lib/python2.7/dist-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+当前时间： 2016-04-07 00:02:01
+Traceback (most recent call last):
+  File "/home/csc/getdata/wjp_main/main_cd.py", line 64, in <module>
+    if(url1 == listssss[0]):
+TypeError: 'NoneType' object has no attribute '__getitem__'
+当前时间： 2016-04-08 00:02:02
+当前时间： 2016-04-09 00:02:01
+当前时间： 2016-04-10 00:02:02
+当前时间： 2016-04-11 00:02:01
+当前时间： 2016-04-12 00:02:02
+当前时间： 2016-04-13 00:02:01
+当前时间： 2016-04-14 00:02:01
+当前时间： 2016-04-15 00:02:02
+当前时间： 2016-04-16 00:02:01
+当前时间： 2016-04-17 00:02:02
+当前时间： 2016-04-18 00:02:01
+当前时间： 2016-04-19 00:02:02
+当前时间： 2016-04-20 00:02:01
+当前时间： 2016-04-21 00:02:01
+当前时间： 2016-04-22 00:02:01
+当前时间： 2016-04-23 00:02:02
+当前时间： 2016-04-24 00:02:01
+当前时间： 2016-04-25 00:02:02
+当前时间： 2016-04-26 00:02:02
